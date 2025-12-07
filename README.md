@@ -1,4 +1,4 @@
-# Multi-Sensor Fault Detection & Digital Twin Simulation for Gas Turbine Blades 🚀
+42343edx543edxs# Multi-Sensor Fault Detection & Digital Twin Simulation for Gas Turbine Blades 🚀
 
 ![Status](https://img.shields.io/badge/Status-Completed-success) ![Language](https://img.shields.io/badge/Language-C%23-blue) ![Framework](https://img.shields.io/badge/Framework-.NET%20Windows%20Forms-purple)
 
@@ -41,7 +41,7 @@ This project is a **Digital Twin Simulation** framework designed to monitor and 
 This project implements the concepts of **Condition-Based Monitoring (CBM)**. The fault detection logic relies on the principle that mechanical faults (like cracks) introduce specific spectral signatures (sidebands) and reduce system damping, which can be visualized via Pole-Zero mapping.
 
 ## 👨‍💻 Author
-**[Nama Anda]**
+**[Zhafran Ahmed]**
 * Institution: Institut Teknologi Sepuluh Nopember (ITS)
 * Department: Instrumentation Engineering
 

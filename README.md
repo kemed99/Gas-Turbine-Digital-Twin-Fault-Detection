@@ -6,7 +6,8 @@
 This project is a **Digital Twin Simulation** framework designed to monitor and detect faults in Gas Turbine blades. It simulates a multi-sensor environment to capture critical operational parameters and uses advanced signal processing techniques to identify incipient failures (e.g., blade cracks).
 
 ## 🎥 Preview
-![Dashboard Preview](relative/path/to/your/image.png)
+![Uploading dashboard_full.png…]()
+
 
 ## ✨ Key Features
 * **Physics-Based Modeling:** Simulates real-world behavior of 5 industrial sensors:
